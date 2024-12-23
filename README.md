@@ -1,4 +1,4 @@
-# Income-Pattern-Analysis-Using-Clustering
+# Income Pattern Analysis Using Clustering
 
 This repository contains the code, data, and report for a clustering analysis project on the Adult dataset from the UCI Machine Learning Repository. The objective is to discover interesting patterns in the data using clustering techniques.
 
